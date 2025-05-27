@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2016/06/03/13/57/digital-marketing-1433427_1280.jpg)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Odinakachi</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
